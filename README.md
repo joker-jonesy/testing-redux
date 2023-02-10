@@ -14,7 +14,7 @@ Create a simple flash card app where cards can flip and be added via using React
 
 * Admin page should allow me to add a new card to my list of cards.
 
-##Stretch Goals
+## Stretch Goals
 
 * Make is super stylish with CSS
 
